@@ -1,4 +1,4 @@
-# gulp-starter-kit
+# gulp-starter-kit-rojandinc
 
 A starterkit for gulp project to build websites in a comfortable way. 
 
