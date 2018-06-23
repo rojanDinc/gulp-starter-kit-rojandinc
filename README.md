@@ -6,7 +6,7 @@ A starterkit for gulp project to build websites in a comfortable way.
 
 ### 1. Clone repo
 ```
-git clone https://github.com
+git clone https://github.com/rojanDinc/gulp-starter-kit-rojandinc.git desired-name-of-project
 ```
 
 ### 2. Go inside cloned repo
@@ -44,5 +44,3 @@ In order to build the production version of your project run __gulp build__ from
 - gulp-htlmin
 - del
 - run-sequence
-
-Big thanks to all the authors of these packages :heart:
