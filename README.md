@@ -11,7 +11,7 @@ git clone https://github.com/rojanDinc/gulp-starter-kit-rojandinc.git desired-na
 
 ### 2. Go inside cloned repo
 ```
-cd gulp-starter-kit
+cd desired-name-of-project
 ```
 
 ### 3. Install all dependencies (make sure nodejs with npm is installed on your machine)
